@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body{
+	background-image: url("/css/images/rocco-dipoppa-_uDj_lyPVpA-unsplash.jpg");
+	background-size: contain;
+}
+
+#box{
+	
+	width: 600px;
+	border: 1px solid LightGrey;
+  	border-radius: 5px;
+  	padding: 10px;
+  	background-color: MintCream;
+  	margin-top: 10px;
+}
